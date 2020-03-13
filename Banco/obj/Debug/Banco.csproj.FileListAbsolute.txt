@@ -1,0 +1,6 @@
+C:\Users\aluno1\Source\Repos\Banco\Banco\bin\Debug\Banco.dll
+C:\Users\aluno1\Source\Repos\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\aluno1\Source\Repos\Banco\Banco\obj\Debug\Banco.csprojAssemblyReference.cache
+C:\Users\aluno1\Source\Repos\Banco\Banco\obj\Debug\Banco.csproj.CoreCompileInputs.cache
+C:\Users\aluno1\Source\Repos\Banco\Banco\obj\Debug\Banco.dll
+C:\Users\aluno1\Source\Repos\Banco\Banco\obj\Debug\Banco.pdb
